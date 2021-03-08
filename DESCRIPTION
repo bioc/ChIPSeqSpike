@@ -1,7 +1,7 @@
 Package: ChIPSeqSpike
 Type: Package
 Title: ChIP-Seq data scaling according to spike-in control 
-Version: 1.11.0
+Version: 1.11.1
 Date: 2018-04-11
 Author: Nicolas Descostes
 Maintainer: Nicolas Descostes <nicolas.descostes@gmail.com>
@@ -32,3 +32,4 @@ Depends:  R (>= 3.5), rtracklayer (>= 1.37.6)
 biocViews: ImmunoOncology, ChIPSeq, Sequencing, Normalization, Transcription, Coverage, 
            DifferentialMethylation, Epigenetics, DataImport, 
            HistoneModification
+PackageStatus: Deprecated
